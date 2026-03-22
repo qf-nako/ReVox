@@ -4,7 +4,7 @@ setup(
     name="ReVox",
     version="0.1.0",
     description="基于 SadTalker 的音视频增强全流程工具 (Denoise & SuperRes)",
-    author="Your Name",
+    author="BaiJiang=Void",
     url="https://github.com/BaiJiang-Void/ReVox",
     # 关键修复：直接查找 src 下的所有包
     packages=find_packages(),
